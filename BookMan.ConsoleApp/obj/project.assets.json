@@ -628,11 +628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quanp\\source\\repos\\BOOKMAN\\BookMan.ConsoleApp\\BookMan.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\quanp\\Documents\\BookMan.ConsoleApp\\BookMan.ConsoleApp\\BookMan.ConsoleApp.csproj",
       "projectName": "BookMan.ConsoleApp",
-      "projectPath": "C:\\Users\\quanp\\source\\repos\\BOOKMAN\\BookMan.ConsoleApp\\BookMan.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\quanp\\Documents\\BookMan.ConsoleApp\\BookMan.ConsoleApp\\BookMan.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\quanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quanp\\source\\repos\\BOOKMAN\\BookMan.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\quanp\\Documents\\BookMan.ConsoleApp\\BookMan.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
